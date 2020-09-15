@@ -1,0 +1,290 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Efe",
+                "last": "Poyrazoğlu"
+            },
+            "location": {
+                "street": {
+                    "number": 4089,
+                    "name": "Doktorlar Cd"
+                },
+                "city": "Hatay",
+                "state": "Manisa",
+                "country": "Turkey",
+                "postcode": 53332,
+                "coordinates": {
+                    "latitude": "69.7547",
+                    "longitude": "-55.7440"
+                },
+                "timezone": {
+                    "offset": "+5:45",
+                    "description": "Kathmandu"
+                }
+            },
+            "email": "efe.poyrazoglu@example.com",
+            "login": {
+                "uuid": "4bb62687-b6a5-4650-b211-f8f731997645",
+                "username": "beautifulbutterfly965",
+                "password": "boobed",
+                "salt": "UyQwywbD",
+                "md5": "238059673d1ac97169dedec88e22be48",
+                "sha1": "457fa59c0545f466aeda2347fe335070c8b24a4c",
+                "sha256": "505d60e0022f5f2a61a9f1fdf34f74d4ddd1151ed41fbeb837f08e5be418c671"
+            },
+            "dob": {
+                "date": "1972-09-25T10:27:47.288Z",
+                "age": 48
+            },
+            "registered": {
+                "date": "2019-05-20T18:28:39.329Z",
+                "age": 1
+            },
+            "phone": "(216)-644-2374",
+            "cell": "(393)-650-7387",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/46.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
+            },
+            "nat": "TR"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Salvador",
+                "last": "Willis"
+            },
+            "location": {
+                "street": {
+                    "number": 4178,
+                    "name": "Valley View Ln"
+                },
+                "city": "Grants Pass",
+                "state": "Nebraska",
+                "country": "United States",
+                "postcode": 70056,
+                "coordinates": {
+                    "latitude": "87.9374",
+                    "longitude": "-124.6627"
+                },
+                "timezone": {
+                    "offset": "+11:00",
+                    "description": "Magadan, Solomon Islands, New Caledonia"
+                }
+            },
+            "email": "salvador.willis@example.com",
+            "login": {
+                "uuid": "dff6d58a-0ac8-4737-882a-54dfcf8cad1d",
+                "username": "blackostrich400",
+                "password": "liverpool",
+                "salt": "dNVFDoCd",
+                "md5": "72efd465e6bb3f8b7e582ca6775c4e60",
+                "sha1": "dd4a45814eb50b78b6bac87db1d6d7ed10913018",
+                "sha256": "a579f24644fcf39cfec93c7092631b6ab6606f7fe2642b6472c8d5752e084682"
+            },
+            "dob": {
+                "date": "1961-01-11T23:23:41.629Z",
+                "age": 59
+            },
+            "registered": {
+                "date": "2016-08-26T00:50:44.232Z",
+                "age": 4
+            },
+            "phone": "(795)-768-0832",
+            "cell": "(567)-914-2484",
+            "id": {
+                "name": "SSN",
+                "value": "089-82-8502"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/96.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/96.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/96.jpg"
+            },
+            "nat": "US"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Jonh",
+                "last": "Hat"
+            },
+            "location": {
+                "street": {
+                    "number": 8126,
+                    "name": "King street"
+                },
+                "city": "قزوین",
+                "state": "کردستان",
+                "country": "Iran",
+                "postcode": 73212,
+                "coordinates": {
+                    "latitude": "36.3921",
+                    "longitude": "-101.4486"
+                },
+                "timezone": {
+                    "offset": "+2:00",
+                    "description": "Kaliningrad, South Africa"
+                }
+            },
+            "email": "mhmd.jaafry@example.com",
+            "login": {
+                "uuid": "b08dfacb-62af-46d4-a219-e3da2f073ea3",
+                "username": "beautifullion907",
+                "password": "boxcar",
+                "salt": "zjO9xYsz",
+                "md5": "e5a30c6fbae2c28cd4cdb86b150afecd",
+                "sha1": "519fe2f94f2dbee147e183f37b3a356d87c5369d",
+                "sha256": "fa276066062079f8743181db3663219c17144901b51d7c5be24df06636f3c01c"
+            },
+            "dob": {
+                "date": "1955-12-30T02:10:46.394Z",
+                "age": 65
+            },
+            "registered": {
+                "date": "2016-08-26T16:55:23.832Z",
+                "age": 4
+            },
+            "phone": "019-04296180",
+            "cell": "0972-842-3430",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/65.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/65.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/65.jpg"
+            },
+            "nat": "IR"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Mahé",
+                "last": "Renard"
+            },
+            "location": {
+                "street": {
+                    "number": 554,
+                    "name": "Rue Victor-Hugo"
+                },
+                "city": "Toulon",
+                "state": "Loire",
+                "country": "France",
+                "postcode": 90239,
+                "coordinates": {
+                    "latitude": "4.3977",
+                    "longitude": "-43.9695"
+                },
+                "timezone": {
+                    "offset": "-5:00",
+                    "description": "Eastern Time (US & Canada), Bogota, Lima"
+                }
+            },
+            "email": "mahe.renard@example.com",
+            "login": {
+                "uuid": "9d40fe8e-fd70-4625-9151-aac38d0d37e9",
+                "username": "greenbutterfly711",
+                "password": "ambrosia",
+                "salt": "0ZCbxjwL",
+                "md5": "c59a7cb4d11abb1b33208de06666a272",
+                "sha1": "50db935e655430c354d56908e1eeac794ec62d5d",
+                "sha256": "4e43ac9df5175c73b7f4523d6e2428f2748761046230dd4e9c04c2d94a208d38"
+            },
+            "dob": {
+                "date": "1981-09-07T19:47:44.436Z",
+                "age": 39
+            },
+            "registered": {
+                "date": "2016-02-18T13:22:32.445Z",
+                "age": 4
+            },
+            "phone": "03-80-81-49-52",
+            "cell": "06-82-67-68-86",
+            "id": {
+                "name": "INSEE",
+                "value": "1NNaN37032156 34"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/21.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/21.jpg"
+            },
+            "nat": "FR"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Vincent",
+                "last": "Park"
+            },
+            "location": {
+                "street": {
+                    "number": 6584,
+                    "name": "Coastal Highway"
+                },
+                "city": "Selkirk",
+                "state": "Saskatchewan",
+                "country": "Canada",
+                "postcode": "K1W 9Y2",
+                "coordinates": {
+                    "latitude": "-61.4387",
+                    "longitude": "-164.3243"
+                },
+                "timezone": {
+                    "offset": "0:00",
+                    "description": "Western Europe Time, London, Lisbon, Casablanca"
+                }
+            },
+            "email": "vincent.park@example.com",
+            "login": {
+                "uuid": "eb7a4bef-f53b-4727-a755-04424929ee56",
+                "username": "greenfrog135",
+                "password": "hockey",
+                "salt": "8woRDjBx",
+                "md5": "29dda938686e3d3dcf0c0d8ca606425e",
+                "sha1": "372ecd41ffe1e821734af6dd10ac4532fa594a9a",
+                "sha256": "c98d6cbb476124a3869628f28e7cece346b4d2b3a5e1f68bab595092971b0e12"
+            },
+            "dob": {
+                "date": "1960-09-18T07:19:04.383Z",
+                "age": 60
+            },
+            "registered": {
+                "date": "2006-11-01T17:35:24.703Z",
+                "age": 14
+            },
+            "phone": "361-589-3433",
+            "cell": "898-582-0426",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/18.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
+            },
+            "nat": "CA"
+        }
+    ],
+    "info": {
+        "seed": "7d4db9727474515a",
+        "results": 1,
+        "page": 1,
+        "version": "1.1"
+    }
+}
